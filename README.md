@@ -1,4 +1,4 @@
 # 抽奖系列页面
 # v-1.0.0 抽奖页面发布
 预览图：
-![Image text](https://raw.githubusercontent.com/Aric-sky/lucker/master/static/img-pre/img.png)
+![Image text](https://raw.githubusercontent.com/Aric-sky/lucky-projects/luckimg/static/img-pre/img.png)
